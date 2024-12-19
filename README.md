@@ -24,9 +24,10 @@
 
 ## 📈 GitHub Stats
 
-![Syed Hannan Ali Sabri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedhannanalisabri&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedhannanalisabri&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedhannanalisabri&layout=compact&theme=radical)  
-
+![trophy](https://github-profile-trophy.vercel.app/?username=syedhannanalisabri)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syedhannanalisabri&theme=react-dark)  
 ---
 
 ## 📂 Featured Projects
