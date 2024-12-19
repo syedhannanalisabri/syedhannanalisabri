@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 - 🚀 Passionate about **Machine Learning**, **AI**, and turning data into actionable insights.  
-- 🌱 Currently expanding my skills in **Python**, **Azure**, and **R**.  
+- 🌱 Currently expanding my skills in **Python** and **Azure**.  
 - 🎯 My goal is to create innovative data-driven solutions and contribute to real-world challenges.  
 - 🌟 A believer in the transformative power of **startups** and creative technology.  
 
@@ -16,8 +16,8 @@
 
 ## 🛠 Skills & Tools
 
-- **Languages**: Python, R (beginner)  
-- **Technologies**: Machine Learning, Data Analysis, WEKA  
+- **Languages**: Python, Java, HTML, CSS, Javascript, C
+- **Technologies**: Machine Learning, Data Analysis 
 - **Learning**: Azure AI & Cloud Solutions  
 
 ---
@@ -34,9 +34,8 @@
 Here are a few projects I’ve worked on:  
 1. **Library Management System** (OOP Lab Project)  
    - Role: Created an intuitive report generation system  
-   - Tools: C++  
+   - Tools: java  
 
-*(You can add more projects here later.)*
 
 ---
 
