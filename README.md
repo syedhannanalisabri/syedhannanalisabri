@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Syed Hannan Ali Sabri!
 
 🌟 **Aspiring Data Scientist**  
-💻 **BS Data Science (5th Semester)**  
+💻 **BS Data Science**  
 
 ---
 
