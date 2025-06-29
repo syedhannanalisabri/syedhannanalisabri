@@ -4,10 +4,7 @@
 
 # 🚀 Syed Hannan Ali Sabri
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Scientist+%7C+AI+Enthusiast;Turning+Data+into+Insights;Building+the+Future+with+Code)](https://git.io/typing-svg)
-</div>
+
 <p align="center">
   <a href="https://github.com/syedhannanalisabri">
     <img src="https://komarev.com/ghpvc/?username=syedhannanalisabri&color=blue" alt="Profile Views"/>
@@ -18,7 +15,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img alt="Coding" width="400" src="20250629_1900_Data Science Icon_simple_compose_01jyxzrbkafg2r2zqctr2nn1pj.png">
 
 ### 🎯 About Me
 
