@@ -1,6 +1,6 @@
 
 
-
+<img align="center" alt="Coding" width="400" src="20250629_1900_Data Science Icon_simple_compose_01jyxzrbkafg2r2zqctr2nn1pj.png">
 
 # 🚀 Syed Hannan Ali Sabri
 
@@ -15,7 +15,7 @@
 
 ---
 
-<img alt="Coding" width="400" src="20250629_1900_Data Science Icon_simple_compose_01jyxzrbkafg2r2zqctr2nn1pj.png">
+
 
 ### 🎯 About Me
 
